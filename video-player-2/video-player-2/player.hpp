@@ -1,0 +1,6 @@
+#ifndef VIDEO_PLAYER_PLAYER_HPP
+#define VIDEO_PLAYER_PLAYER_HPP
+
+void openPlayer();
+
+#endif VIDEO_PLAYER_PLAYER_HPP
